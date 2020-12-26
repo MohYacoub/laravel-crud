@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66d667af-9687-43ba-968b-1b5839a508b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../LP3/public/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LP3/resources/views/layout/master.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LP3/resources/views/register.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RegisterTask/resources/views/UsersTable.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RegisterTask/resources/views/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RegisterTask/resources/views/homereg.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RegisterTask/resources/views/register.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hsoob/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hsoob/.idea/hsoob.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hsoob/.idea/laravel-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hsoob/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hsoob/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hsoob/.idea/phpunit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hsoob/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hsoob/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hsoob/resources/views/post/layout.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel-basics-master/.idea/orange.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../udemy/Form/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../udemy/Form/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../udemy/Form/.idea/phpunit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../udemy/Form/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../udemy/Form/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../udemy/Form/resources/views/layout/master.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../udemy/Form/resources/views/users/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../udemy/Form/resources/views/users/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../udemy/Form/resources/views/users/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../udemy/Form/resources/views/users/show.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../udemy/Proj1/resources/views/contact.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../udemy/Proj1/resources/views/show.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../udemy/one-to-many/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../udemy/one-to-many/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../udemy/one-to-many/.idea/phpunit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../udemy/one-to-many/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../udemy/one-to-many/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../udemy/one-to-one/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../udemy/one-to-one/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../udemy/one-to-one/.idea/phpunit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../udemy/one-to-one/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../udemy/one-to-one/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1m200gKsAWhQaRUxGBnUp5nGNHy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66d667af-9687-43ba-968b-1b5839a508b7" name="Default Changelist" comment="" />
+      <created>1608676160778</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608676160778</updated>
+      <workItem from="1608676167571" duration="130000" />
+    </task>
+    <servers />
+  </component>
+</project>
